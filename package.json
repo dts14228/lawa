@@ -1,5 +1,6 @@
 {
     "private": true,
+    "stats.children": true,
     "scripts": {
         "dev": "npm run development",
         "development": "mix",
